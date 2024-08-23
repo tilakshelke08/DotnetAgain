@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\bin\Debug\Basic_Class_Program.exe.config
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\bin\Debug\Basic_Class_Program.exe
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\bin\Debug\Basic_Class_Program.pdb
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\obj\Debug\Basic_Class_Program.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\obj\Debug\Basic_Class_Program.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\obj\Debug\Basic_Class_Program.exe
+D:\DotNet_Acts\Again_Dotnet\Day1\Basic_Class_Program\Basic_Class_Program\obj\Debug\Basic_Class_Program.pdb
