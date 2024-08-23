@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\bin\Debug\Static_Members.exe.config
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\bin\Debug\Static_Members.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\bin\Debug\Static_Members.pdb
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\obj\Debug\Static_Members.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\obj\Debug\Static_Members.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\obj\Debug\Static_Members.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Static_Members\obj\Debug\Static_Members.pdb

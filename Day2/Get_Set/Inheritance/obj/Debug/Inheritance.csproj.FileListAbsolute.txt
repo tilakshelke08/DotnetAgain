@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\bin\Debug\Inheritance.exe.config
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\bin\Debug\Inheritance.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\bin\Debug\Inheritance.pdb
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\obj\Debug\Inheritance.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Inheritance\obj\Debug\Inheritance.pdb

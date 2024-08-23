@@ -1,0 +1,2 @@
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\ConstructorOrObectInitializer\obj\Debug\ConstructorOrObectInitializer.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\ConstructorOrObectInitializer\obj\Debug\ConstructorOrObectInitializer.csproj.CoreCompileInputs.cache

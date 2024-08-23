@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\bin\Debug\Get_Set.exe.config
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\bin\Debug\Get_Set.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\bin\Debug\Get_Set.pdb
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\obj\Debug\Get_Set.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\obj\Debug\Get_Set.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\obj\Debug\Get_Set.exe
+D:\DotNet_Acts\Again_Dotnet\Day2\Get_Set\Get_Set\obj\Debug\Get_Set.pdb
